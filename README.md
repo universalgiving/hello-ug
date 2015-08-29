@@ -1,6 +1,6 @@
 HELLO-UG
 
-This repository contains basic tutorial for basic development practices. This application is OS/environment agnostic.
+This repository contains tutorials for basic development practices. This application is OS/environment agnostic.
 
 Getting-Started
 1. Install VirtualBox (https://www.virtualbox.org/wiki/Downloads)
