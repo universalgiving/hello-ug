@@ -7,9 +7,6 @@ pids
 *.pid
 *.seed
 
-# meteor
-.meteor
-
 # vagrant
 .vagrant
 
