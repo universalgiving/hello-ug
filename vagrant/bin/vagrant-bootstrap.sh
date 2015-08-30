@@ -8,7 +8,7 @@ curl https://install.meteor.com/ | sudo sh
 # config
 sudo mkdir -p /apps/meteor/hello-ug/.meteor/local
 sudo mount --bind /apps/meteor/hello-ug/.meteor/local/ /vagrant/.meteor/local/
-sudo echo "sudo mount --bind /apps/meteor/hello-ug/.meteor/local/ /vagrant/.meteor/local/" >> /etc/profile
+sudo echo "sudo mount --bind /apps/meteor/hello-ug/.meteor/local/ /vagrant/.meteor/local/" >> ~/.profile
 
 # start meteor
 cd /vagrant
