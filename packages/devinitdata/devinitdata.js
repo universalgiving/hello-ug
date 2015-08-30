@@ -10,7 +10,7 @@ if (Meteor.isServer) {
             Meteor.call("addTask", "Task 4: vagrant up");
             Meteor.call("addTask", "Task 5: Find a way to persist a new task!");
 
-            
+
             Init.insert({
                 init: true
             })
